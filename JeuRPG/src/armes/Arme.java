@@ -14,11 +14,12 @@ public abstract class Arme {
 
 	public String getNom() {
 		return nom; 
-	
 	}
+	
 	public int getPuissance() {
 		return puissance; 
 	}
+	
 	public int getPrix() { 
 		return prix;
 	}
@@ -26,4 +27,5 @@ public abstract class Arme {
 	public abstract void effetSpecial();
 	
 }
+
 
