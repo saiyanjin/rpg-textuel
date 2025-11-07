@@ -13,3 +13,4 @@ le joueur dispose alors de 3 choix :
   3. Se déplacer
 
 le joueur choisit l'action en écrivant dans la console 1, 2 ou 3
+pour se déplacer, le joueur à le choix entre bas, haut, droite, gauhce, qu'il écrit dans la console
