@@ -11,4 +11,5 @@ le joueur dispose alors de 3 choix :
   1. Acheter une arme
   2. Voir l'inventaire
   3. Se déplacer
+
 le joueur choisit l'action en écrivant dans la console 1, 2 ou 3
